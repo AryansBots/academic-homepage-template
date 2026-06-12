@@ -14,4 +14,3 @@ B.E., Data Science and Big Data Technology, China University of Mining and Techn
 
 #### Research Interests
 Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
